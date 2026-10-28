@@ -48,3 +48,7 @@ Or open `project.godot` in the Godot editor and press F5.
 | `tools/` | Headless test scenes for feeding and for tracking down flickering pixels |
 
 All motion of the fish happens in the vertex shader. The script only sets a handful of parameters per frame: swim phase and amplitude, body bend, fin drag, mouth and gill opening.
+
+## License
+
+[MIT](LICENSE)
