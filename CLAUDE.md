@@ -2,7 +2,9 @@
 
 Realistisch wirkender Siamesischer Kampffisch in Lebensgröße vor schwarzem Hintergrund. Ziel: möglichst realistisch und spektakulär. Godot 4.7 per Homebrew (`godot` im PATH), Mac mit Apple M3, Renderer Forward+/Metal.
 
-Starten: `godot --path /Users/golo/Downloads/betta-sim`
+Starten: `godot --path /Users/golo/Downloads/bettaquarium`
+
+Repository: https://github.com/jjochum-code/bettaquarium (Branch `main`). README auf Englisch mit Bildern in `docs/`.
 
 Tasten: `F` Futter, `C` feste Paletten (setzt Halfmoon), `2` versteckt: Zufallslook (Farbe + Flossentyp), `Cmd+F`/`F11` Vollbild, `Esc` Ende.
 
