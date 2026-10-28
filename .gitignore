@@ -1,0 +1,8 @@
+# Godot cache and imports, regenerated on load
+.godot/
+/android/
+
+# Local overrides, e.g. a different window size for movie runs
+override.cfg
+
+.DS_Store
